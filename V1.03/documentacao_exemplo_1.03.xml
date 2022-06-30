@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentacaoAcademicaRegistro xmlns="http://portal.mec.gov.br/diplomadigital/arquivos-em-xsd"
+    xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <RegistroReq id="ReqDip20220214212344538747193925880551489379672687" versao="1.02">
+        <DadosDiploma id="ReqDip20220214212344538747193925880551489379672687">
+            <Diplomado>
+                <ID>57</ID>
+                <Nome>GUILHERME HENRIQUE VICENTE OLIVEIRA</Nome>
+                <Sexo>M</Sexo>
+                <Nacionalidade>BRASILEIRA</Nacionalidade>
+                <Naturalidade>
+                    <CodigoMunicipio>3106200</CodigoMunicipio>
+                    <NomeMunicipio>Belo Horizonte</NomeMunicipio>
+                    <UF>MG</UF>
+                </Naturalidade>
+                <CPF>04376454312</CPF>
+                <RG>
+                    <Numero>19025053</Numero>
+                    <UF>MG</UF>
+                    <OrgaoExpedidor>PMMG</OrgaoExpedidor>
+                </RG>
+                <DataNascimento>2001-03-02</DataNascimento>
+            </Diplomado>
+            <DadosCurso>
+                <NomeCurso>Redes de computadores</NomeCurso>
+                <CodigoCursoEMEC>119150</CodigoCursoEMEC>
+                <NomeHabilitacao>Redes de computadores</NomeHabilitacao>
+                <Modalidade>Presencial</Modalidade>
+                <TituloConferido>
+                    <Titulo>T&#233;cnico</Titulo>
+                </TituloConferido>
+                <GrauConferido>Tecn&#243;logo</GrauConferido>
+                <EnderecoCurso>
+                    <Logradouro>Rua Santa Cruz</Logradouro>
+                    <Complemento>COMP</Complemento>
+                    <Bairro>Barroca</Bairro>
+                    <CodigoMunicipio>3106200</CodigoMunicipio>
+                    <NomeMunicipio>Belo Horizonte</NomeMunicipio>
+                    <UF>MG</UF>
+                    <CEP>30431228</CEP>
+                </EnderecoCurso>
+                <Autorizacao>
+                    <Tipo>Parecer</Tipo>
+                    <Numero>12312</Numero>
+                    <Data>1010-10-10</Data>
+                    <VeiculoPublicacao />
+                    <DataPublicacao>1010-10-10</DataPublicacao>
+                    <SecaoPublicacao />
+                    <PaginaPublicacao />
+                    <NumeroDOU>12312</NumeroDOU>
+                </Autorizacao>
+                <Reconhecimento>
+                    <Tipo>Decreto</Tipo>
+                    <Numero>21331</Numero>
+                    <Data>1111-11-11</Data>
+                    <VeiculoPublicacao />
+                    <DataPublicacao>1111-11-11</DataPublicacao>
+                    <SecaoPublicacao />
+                    <PaginaPublicacao />
+                    <NumeroDOU>21331</NumeroDOU>
+                </Reconhecimento>
+                <RenovacaoReconhecimento />
+            </DadosCurso>
+            <IesEmissora>
+                <Nome>FACULDADE COTEMIG - COTEMIG</Nome>
+                <CodigoMec>1330</CodigoMec>
+                <CNPJ>17496696000191</CNPJ>
+                <Endereco>
+                    <Logradouro>Rua Santa Cruz</Logradouro>
+                    <Complemento>Em frente a padaria</Complemento>
+                    <Bairro>Barroca</Bairro>
+                    <CodigoMunicipio>3106200</CodigoMunicipio>
+                    <NomeMunicipio>Belo Horizonte</NomeMunicipio>
+                    <UF>MG</UF>
+                    <CEP>30431228</CEP>
+                </Endereco>
+                <Credenciamento>
+                    <Tipo>Lei Estadual</Tipo>
+                    <Numero>4234</Numero>
+                    <Data>2017-10-20</Data>
+                    <VeiculoPublicacao />
+                    <DataPublicacao>2017-10-20</DataPublicacao>
+                    <SecaoPublicacao>8412</SecaoPublicacao>
+                    <PaginaPublicacao>1231</PaginaPublicacao>
+                    <NumeroDOU>4234</NumeroDOU>
+                </Credenciamento>
+                <Recredenciamento>
+                    <Tipo>Resolu&#231;&#227;o</Tipo>
+                    <Numero>123</Numero>
+                    <Data>2020-10-10</Data>
+                    <VeiculoPublicacao />
+                    <DataPublicacao>2020-10-10</DataPublicacao>
+                    <SecaoPublicacao>2131</SecaoPublicacao>
+                    <PaginaPublicacao>3</PaginaPublicacao>
+                    <NumeroDOU>123</NumeroDOU>
+                </Recredenciamento>
+                <RenovacaoDeRecredenciamento />
+                <Mantenedora>
+                    <RazaoSocial>SOCIEDADE TECNICA EDUCACIONAL DE MINAS GERAIS LTDA</RazaoSocial>
+                    <CNPJ>17496696000191</CNPJ>
+                    <Endereco>
+                        <Logradouro>Av. Francisco s&#225;</Logradouro>
+                        <Complemento>Perto da pra&#231;a</Complemento>
+                        <Bairro>Gutierrez</Bairro>
+                        <CodigoMunicipio>3106200</CodigoMunicipio>
+                        <NomeMunicipio>Belo Horizonte</NomeMunicipio>
+                        <UF>MG</UF>
+                        <CEP>30441021</CEP>
+                    </Endereco>
+                </Mantenedora>
+            </IesEmissora>
+            <DataConclusao>2112-12-12</DataConclusao>
+        </DadosDiploma>
+        <DadosPrivadosDiplomado>
+            <Filiacao>
+                <Genitor>
+                    <Nome>dsaf</Nome>
+                    <Sexo>M</Sexo>
+                </Genitor>
+            </Filiacao>
+            <HistoricoEscolar>
+                <DataEmissaoHistorico />
+                <SituacaoAluno />
+                <ENADE>
+                    <Situacao />
+                </ENADE>
+                <DataProvaEnade />
+                <CargaHorariaCursoIntegralizada />
+            </HistoricoEscolar>
+            <CargaHorariaCurso>3000</CargaHorariaCurso>
+            <IngressoCurso>
+                <Data />
+                <FormaAcesso>Programas de avalia&#231;&#227;o seriada ou continuada</FormaAcesso>
+                <DataConclusao>2112-12-12</DataConclusao>
+            </IngressoCurso>
+        </DadosPrivadosDiplomado>
+        <TermoResponsabilidade>
+            <Nome>Marcia da Silva</Nome>
+            <CPF>12342131231</CPF>
+            <Cargo>Presidente</Cargo>
+            <AtoDesignacao />
+        </TermoResponsabilidade>
+        <DocumentacaoComprobatoria />
+    </RegistroReq>
+</DocumentacaoAcademicaRegistro>
